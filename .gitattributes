@@ -1,3 +1,28 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-erdrftf
+
+2st tal
+Programmet skall skriva in på skärmen vilken kvadrant den skall vara i 
+
+1. 
+
+
+
+X, -10000 <x< 10000 , X inte= 0 
+Y, -10000 <x< 10000 , Y inte= 0
+
+1. X koordinat = X
+
+
+1. Läs in Variabler
+
+2. Om x>0 och x>0 skriv ut 1
+annars om x>0 och y<0 skriv ut 4
+annars om x<0 och y>0 skriv ut 2
+annars om x<0 och y<0 skriv ut 3
+
+3.
+
+
+
+
